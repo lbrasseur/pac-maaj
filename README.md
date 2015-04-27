@@ -38,7 +38,7 @@ debería aparecer una pantalla como la siguiente:
 
 El proyecto también incluye test unitarios, a fin de comporbar que la salida del método implementado sea correcta. Dichos tests unitarios validan tanto los datos de salida como las excepciones que debería lanzar el método. La clase [`com.aajtech.pacmaaj.MazeTests`](https://github.com/lbrasseur/pac-maaj/blob/master/core/src/com/aajtech/pacmaaj/MazeTests.java) realiza dicha validación y puede usarse como referencia para probar el correcto comportamiento de la implementación del método.
 
-Para ejecutar los test unitarios, se debe ejecutar la siguiente opción:
+Para ejecutar los test unitarios, se debe seleccionar la siguiente opción:
 
 ![](https://raw.githubusercontent.com/lbrasseur/pac-maaj/master/img/unit_test.png)
 
